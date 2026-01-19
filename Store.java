@@ -1,5 +1,5 @@
 package MultipleObjectParameters_Demo;
-
+ 
 public class Store {
     // instance fields
     String productType;
